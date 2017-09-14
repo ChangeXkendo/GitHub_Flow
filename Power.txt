@@ -1,1 +1,2 @@
 Power = Attention/dedication
+Dedication = Progress
